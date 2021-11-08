@@ -8,24 +8,7 @@
 
 Puntos principales
 ## → ¿Qué es una falla?
--"Una falla geológica es una discontinuidad entre macizos de rocas en la cual ha ocurrido un desplazamiento relativo entre 2 o mas bloques."
-
-Existen tres tipos de fallas:
-
--Normal: Fallas con un plano inclinado donde el bloque colgante se desplaza hacia abajo con respecto al bloque yacente.
-
-
--Inversa: Fallas en las que el bloque colgante se desplaza hacia arriba con respecto al bloque yacente.
-
-
--Rumbo: Se denominan fallas de rumbo a las fallas con desplazamientos horizontales y paralelos a la línea de falla. Según el sentido de movimiento existen dos tipos de falla de rumbo.(1)Dextral: Fallas de rumbo en las que el bloque que está a la derecha del plano de falla (desde el punto de vista del observador) se desplaza hacia este.(2)Sinestral: Fallas de rumbo en las que el bloque que está a la derecha del observador (tomando referencia el plano de falla) se aleja de este.
-
-
-
-
-
-##### Referencias
-- https://fallasdechile.sitios.ing.uc.cl/que-es-una-falla/
+-(Contextualización general)
 
 ## → ¿Qué es la falla de San Ramón? 
 -(qué tipo, dónde está + mapa, longitud, profundidad, áreas de riesgo, zonas involucradas, principales características etc etc…)
@@ -44,6 +27,14 @@ La falla representa una franja de discontinuidad en el sustrato rocoso que modif
 
 ## → Posible catástrofe: 
 -Magnitudes, ruptura, cambios geográficos, desniveles, cuando ocurre, predicciones, ciclos y monitoreo
+
+Info: La Falla San Ramón representa dos fuentes de amenaza directa para la Región Metropolitana: por una parte, la posibilidad de propagación de la ruptura en superficie y por otra, la posibilidad de aceleraciones o movimientos del suelo mucho mayores a los registrados durante el terremoto del Maule en 2010 en Santiago. A lo anterior, se suma la potencial ocurrencia de remociones en masa asociadas a un terremoto de gran magnitud.
+
+En efecto, las evidencias paleosismológicas muestran que la Falla San Ramón es capaz de acumular esfuerzos tectónicos y producir —por sí misma— grandes terremotos, con dos episodios de gran magnitud (MW7,2-7,5) ocurridos en los últimos 17.000 años, y el último hace unos 8.000 años atrás. De acuerdo con estos mismos antecedentes, en cada uno de estos terremotos la propagación de la ruptura en superficie a lo largo de la falla movió del orden de 5 m el bloque oriental de la corteza terrestre respecto del occidental, levantando de 2 a 3 m el bloque cordillerano por sobre el valle de Santiago.
+
+Frente a este posible riesgo, en el gobierno de Michelle Bachelet (2017) se inaguran centros de monitoreo de la falla de San Ramón, esto con la utilidad de saber la actividad de la falla para complementar la evidencia geológica. Esto permitirá crear medidas de prevención con mayor detalle empírico científico. Esta red permite ver eventos sísmicos pequeños que suman a la investigación general del evento. Si bien este monitoreo a permitido acumular datos sísmicos, aún se necesita más información para poder determinar en que etapa del ciclo de la falla nos encontramos y con esto, poder predicir futuras catástrofes.
+
+
 
 ## → Urbanización: 
 Historia de cómo se ha construido alrededor de la falla (scroll down: Cómo la urbanización aumenta según el pasar de los años, edificios, casas, establecimientos, etc)
