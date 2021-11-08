@@ -27,6 +27,6 @@ Puntos principales
 
 
 
-
+ 
 → Mapa de su ubicación actual / áreas de peligro hover y clicks (Cuánta gente vive, que edificaciones hay, hectáreas, etc)
 ![alta](alta-alta.png) ![media alta](media-alt.png) ![media](media.png)
