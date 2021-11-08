@@ -18,7 +18,7 @@ Existen tres tipos de fallas:
 -Inversa: Fallas en las que el bloque colgante se desplaza hacia arriba con respecto al bloque yacente.
 
 
--Rumbo: Se denominan fallas de rumbo a las fallas con desplazamientos horizontales y paralelos a la línea de falla. Según el sentido de movimiento existen dos tipos de falla de rumbo.(1)Dextral: Fallas de rumbo en las que el bloque que está a la derecha del plano de falla (desde el punto de vista del observador) se desplaza hacia este.(2)Sinestral: Fallas de rumbo en las que el bloque que está a la derecha del observador (tomando referencia el plano de falla) se aleja de este.
+-Rumbo: Se denominan fallas de rumbo a las fallas con desplazamientos horizontales y paralelos a la línea de falla. Según el sentido de movimiento existen dos tipos de falla de rumbo. (1) Dextral: Fallas de rumbo en las que el bloque que está a la derecha del plano de falla (desde el punto de vista del observador) se desplaza hacia este. (2) Sinestral: Fallas de rumbo en las que el bloque que está a la derecha del observador (tomando referencia el plano de falla) se aleja de este.
 
 
 
