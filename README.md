@@ -93,3 +93,21 @@ El área que abarca las zonas de intensidad media alta, corresponde a casi 33.00
 
 Área de Intensidad Media En el área de intensidad media, la más baja de las tres, corresponde a áreas distantes hasta 14,7 kms de la falla y comprende una superficie de 50.073 hectáreas. Se encuentran, en el área de intensidad media, un total de 1.513.663 habitantes, los cuales pertenecen mayoritariamente a las comunas de Puente Alto, La Florida, Ñuñoa y Recoleta.
 En cuanto a los equipamientos identificados en el área con intensidad media, estos corresponden a 999 y en cuanto a sus funciones estos pertenecen mayoritariamente al tipo establecimientos de educación, jardines infantiles, establecimientos de salud y supermercados
+
+
+## Referencias
+
+
+https://www.latercera.com/que-pasa/noticia/falla-san-ramon-vuelve-a-activarse-lapidario-informe-del-congreso-alerta-que-podria-generar-terremoto-de-75/TFMZIMJNOJGHLDAD2TKISTBBVM/
+http://www.geofisica.cl/Tempo/mix/San_Ramon.htm
+https://web.archive.org/web/20100823034210/http://revistaurbanismo.uchile.cl/n6/ferrandototal.html
+https://web.archive.org/web/20100911130148/http://www.anip.cl/prensa/estudio-revela-que-falla-geologica-en-santiago-esta-activa-y-cruza-siete-comunas/
+https://revistaurbanismo.uchile.cl/index.php/RU/article/view/48216/52947
+https://www.bcn.cl/siit/actualidad-territorial/falla-san-ramon-riesgo-potencial-en-la-ciudad-de-santiago/document_view2
+https://geologia-ambiental.cl/geohuellas/numero-4/santiago-territorio-y-amenaza-de-la-falla-san-ramon/
+https://www.biobiochile.cl/noticias/nacional/chile/2020/11/08/viviendo-en-la-falla-de-san-ramon-todo-en-orden.shtml
+http://revistas.ubiobio.cl/index.php/RU/article/view/4529/4018
+https://www.uchile.cl/noticias/170291/estudio-analiza-el-impacto-de-la-falla-san-ramon-en-la-rm-
+https://revistaurbanismo.uchile.cl/index.php/RU/article/view/48216/62321
+https://www.duna.cl/noticias/2020/11/02/la-falla-de-san-ramon-y-los-peligros-para-el-sector-oriente-de-santiago/
+https://www.latercera.com/que-pasa/noticia/farellones-registra-14-temblores-en-los-ultimos-tres-dias-es-una-nueva-senal-de-reactivacion-de-la-falla-de-san-ramon/NMG6TXFW6BHS3CBXATZYNBAU7Q/
