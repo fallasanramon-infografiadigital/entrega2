@@ -94,6 +94,7 @@ El área que abarca las zonas de intensidad media alta, corresponde a casi 33.00
 Área de Intensidad Media En el área de intensidad media, la más baja de las tres, corresponde a áreas distantes hasta 14,7 kms de la falla y comprende una superficie de 50.073 hectáreas. Se encuentran, en el área de intensidad media, un total de 1.513.663 habitantes, los cuales pertenecen mayoritariamente a las comunas de Puente Alto, La Florida, Ñuñoa y Recoleta.
 En cuanto a los equipamientos identificados en el área con intensidad media, estos corresponden a 999 y en cuanto a sus funciones estos pertenecen mayoritariamente al tipo establecimientos de educación, jardines infantiles, establecimientos de salud y supermercados
 
+Es urgente evitar que se siga construyendo directamente sobre su traza, pero el 55% de esta ya se encuentra urbanizado, mientras que en el 45% restante hay fuertes presiones de proyectos inmobiliarios. Existe una falta de reconocimiento de este fenómeno en al Plan Regulador Metropolitano de Santiago (PRMS), por lo que -
 
 ## Referencias
 
