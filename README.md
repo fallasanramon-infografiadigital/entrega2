@@ -112,3 +112,5 @@ https://www.uchile.cl/noticias/170291/estudio-analiza-el-impacto-de-la-falla-san
 https://revistaurbanismo.uchile.cl/index.php/RU/article/view/48216/62321
 https://www.duna.cl/noticias/2020/11/02/la-falla-de-san-ramon-y-los-peligros-para-el-sector-oriente-de-santiago/
 https://www.latercera.com/que-pasa/noticia/farellones-registra-14-temblores-en-los-ultimos-tres-dias-es-una-nueva-senal-de-reactivacion-de-la-falla-de-san-ramon/NMG6TXFW6BHS3CBXATZYNBAU7Q/
+https://www.camara.cl/verDoc.aspx?prmTipo=DocumentoFicha&prmID=238716&prmTipoDoc=LOCAL
+
