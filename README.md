@@ -10,7 +10,6 @@ Puntos principales
 ## → ¿Qué es una falla?
 >"Una falla geológica es una discontinuidad entre macizos de rocas en la cual ha ocurrido un desplazamiento relativo entre 2 o mas bloques." 
 
->¿Cómo puede una falla generar un temblor?
 
 Las fuerzas terrestres actúan sobre la zona de falla, y, por ello, los bloques rocosos a ambos lados de ella tienden a desplazarse. Esto dicho, como el plano de la fractura no es liso ni está lubricado para que los bloques resbalen suavemente, sus asperidades (protuberancias) frenan el movimiento, lo que genera una acumulación importante de energía en el sitio. En determinado momento, la asperidad no soporta más presión, se rompe, se da un deslizamiento brusco de un bloque a lo largo del plano de la falla y la energía acumulada en el sitio se libera en forma de ondas sísmicas, lo cual, finalmente, genera el temblor.
 
