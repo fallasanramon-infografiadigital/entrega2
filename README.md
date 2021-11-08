@@ -8,7 +8,11 @@
 
 Puntos principales
 ## → ¿Qué es una falla?
->"Una falla geológica es una discontinuidad entre macizos de rocas en la cual ha ocurrido un desplazamiento relativo entre 2 o mas bloques."
+>"Una falla geológica es una discontinuidad entre macizos de rocas en la cual ha ocurrido un desplazamiento relativo entre 2 o mas bloques." 
+
+>¿Cómo puede una falla generar un temblor?
+
+Las fuerzas terrestres actúan sobre la zona de falla, y, por ello, los bloques rocosos a ambos lados de ella tienden a desplazarse. Esto dicho, como el plano de la fractura no es liso ni está lubricado para que los bloques resbalen suavemente, sus asperidades (protuberancias) frenan el movimiento, lo que genera una acumulación importante de energía en el sitio. En determinado momento, la asperidad no soporta más presión, se rompe, se da un deslizamiento brusco de un bloque a lo largo del plano de la falla y la energía acumulada en el sitio se libera en forma de ondas sísmicas, lo cual, finalmente, genera el temblor.
 
 Existen tres tipos de fallas:
 
@@ -18,7 +22,7 @@ Existen tres tipos de fallas:
 -Inversa: Fallas en las que el bloque colgante se desplaza hacia arriba con respecto al bloque yacente.
 
 
--Rumbo: Se denominan fallas de rumbo a las fallas con desplazamientos horizontales y paralelos a la línea de falla. Según el sentido de movimiento existen dos tipos de falla de rumbo. (1) Dextral: Fallas de rumbo en las que el bloque que está a la derecha del plano de falla (desde el punto de vista del observador) se desplaza hacia este. (2) Sinestral: Fallas de rumbo en las que el bloque que está a la derecha del observador (tomando referencia el plano de falla) se aleja de este.
+-Rumbo: Se denominan fallas de rumbo a las fallas con desplazamientos horizontales y paralelos a la línea de falla. Según el sentido de movimiento existen dos tipos de falla de rumbo.(1)Dextral: Fallas de rumbo en las que el bloque que está a la derecha del plano de falla (desde el punto de vista del observador) se desplaza hacia este.(2)Sinestral: Fallas de rumbo en las que el bloque que está a la derecha del observador (tomando referencia el plano de falla) se aleja de este.
 
 
 
