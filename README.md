@@ -45,7 +45,7 @@ Establecimientos con mayor equipamiento: Educación, jardines infantiles, salud 
 ![media][media.png]
 
 
-→ Urbanización: 
+## Urbanización: 
 
 Información: La falla Santiago ha experimentado en sus últimas décadas un aumento considerable de áreas urbanizadas en el piedemonte de su borde oriente, donde se localiza la Falla San Ramón (FSR), de modo que se ha vuelto un nuevo escenario de riesgo geológico. Usando incuestionables atractivos sobre el medio natural, la vista panorámica a la ciudad y un ambiente saludable, se han promocionado proyectos de vivienda de alto costo que conviven con este riesgo sísmico, pero que parecen desestimar desde los instrumentos de planificación de nivel comunal y metropolitano.
 
