@@ -2,12 +2,17 @@
 
 
 ## Qué es
-La Falla San Ramón representa dos fuentes de amenaza directa para la Región Metropolitana, llegando a afectar más de tres millones de personas. Si bien el último episodio sísmico a causa de esta falla ocurrió hace 8.000 años atrás, esta sigue activa y un posible sismo podría generar graves efectos.  
+
+La Falla de Ramón es una falla geológica activa del tipo inversa que se encuentra situada al oriente de Santiago, la capital de Chile, siguiendo el pie del cerro de la sierra de Ramón a la que debe su nombre. Se puede identificar como un súbito escalón que se alza sobre el valle de Santiago entre la placa de Nazca y la placa Sudamericana.
+
 
 ![falla](falla_vista.png)
 ![movimiento](movimiento.png)
 
 ## Posibles efectos en la urbe: (Dibujado)
+
+La Falla San Ramón representa dos fuentes de amenaza directa para la Región Metropolitana, llegando a afectar más de tres millones de personas. Si bien el último episodio sísmico a causa de esta falla ocurrió hace 8.000 años atrás, esta sigue activa y un posible sismo podría generar graves efectos.  
+
 -Episodio sísmico de gran magnitud (MW 7,2-7,5)(Mostrar el nivel de profundidad)
 -Ruptura de la superficie, generando desniveles (3 a 5 metros)
 -Dislocamiento y fracturamiento, produciendo manifestaciones hidrotermales, alterando químicamente la roca.
