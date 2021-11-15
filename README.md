@@ -49,7 +49,7 @@ Establecimientos con mayor equipamiento: Educación, jardines infantiles, salud 
 
 Información: La falla Santiago ha experimentado en sus últimas décadas un aumento considerable de áreas urbanizadas en el piedemonte de su borde oriente, donde se localiza la Falla San Ramón (FSR), de modo que se ha vuelto un nuevo escenario de riesgo geológico. Usando incuestionables atractivos sobre el medio natural, la vista panorámica a la ciudad y un ambiente saludable, se han promocionado proyectos de vivienda de alto costo que conviven con este riesgo sísmico, pero que parecen desestimar desde los instrumentos de planificación de nivel comunal y metropolitano.
 
-![kaka] [evolucion-urbana.png]
+! [kaka][evolucion-urbana.png]
 
 *(Dibujado: Hasta 1960 la urbanización sobre la falla era prácticamente nula, pues la edificación se concentraba sobre el valle central, aún cuando el Plan Regulador Intercomunal de Santiago (PRIS) autorizaba la construcción en un 30% sobre la falla, en el sector nororiente de la capital. En 1979, casi 20 años después, se comenzaron a introducir una serie de cambios que fueron modificando los límites urbanos de la RM. Lo anterior fue agudizado con la presencia de asentamientos irregulares que comenzaron a desarrollarse en el borde de la franja suburbana durante las tres décadas siguientes. )
 
