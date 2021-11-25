@@ -13,10 +13,8 @@ La Falla de Ramón es una falla geológica activa del tipo inversa que se encuen
 
 La Falla San Ramón representa dos fuentes de amenaza directa para la Región Metropolitana, llegando a afectar más de tres millones de personas. Si bien el último episodio sísmico a causa de esta falla ocurrió hace 8.000 años atrás, esta sigue activa y un posible sismo podría generar graves efectos.  
 
--Episodio sísmico de gran magnitud (MW 7,2-7,5)(Mostrar el nivel de profundidad)
--Ruptura de la superficie, generando desniveles (3 a 5 metros)
--Dislocamiento y fracturamiento, produciendo manifestaciones hidrotermales, alterando químicamente la roca.
-
+-En el caso de un episodio sísmico de 7,5 Ritcher y gracias a la distancia de 5 km del epicentro, el daño producido alcanzaría los IX en la escala Mercalli. (gráfico)
+-Ruptura de la superficie, generando desniveles (3 a 5 metros).
 
 ## Actualidad y zonas de riesgo
 
